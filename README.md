@@ -310,7 +310,7 @@
 
 <p align="center"><a href="https://wallvpn.com/go/speedin/">立即获取快帆VPN</a></p>
 
-## 快帆加速器相关的其他文章：
+## 快帆加速器评测相关的其他文章：
 
 * <a href="https://chinawallvpn.github.io/">科学上网指南</a>：详细介绍如何科学上网，并推荐几款目前市面上最出色的<a href="https://chinawallvpn.github.io/">翻墙VPN</a>和<a href="https://chinawallvpn.github.io/">翻墙软件</a>。
 * <a href="https://github.com/chinawallvpn/chinawallvpn.github.io">中国VPN排行</a>：基于大陆实测后，精选了几款最好用的<a href="https://github.com/chinawallvpn/chinawallvpn.github.io">国内VPN</a>，可为中国用户提供稳定翻墙服务。
